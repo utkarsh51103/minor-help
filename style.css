@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+ 
+}
+.part-1 img{
+    width: 150px;
+    height: 80px;
+}
+.part-2 .nav-list{
+    display: flex;
+    gap: 20px;
+    padding-top: 25px;
+    padding-left: 20px;
+}
+.part-2 .nav-list li{
+    list-style: none;
+}
+.part-2 .nav-list li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.part-3 ul{
+    display: flex;
+    justify-content: right;
+}
